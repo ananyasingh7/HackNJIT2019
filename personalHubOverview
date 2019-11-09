@@ -1,12 +1,12 @@
 Features:
-  Login
-  Weather
-  Calendar
-  To-Do List
-  Commute to Work
-  Local News
-  National News
-  Spotify
-  Twitter
-  Sports Scores
+  Login (can build by itself)
+  Weather (openweathermap.org)
+  Calendar (can build by itself)
+  To-Do List (can build by itself)
+  Commute to Work (some sort of map api)
+  Local News (news api)
+  National News (news api)
+  Spotify (spotify api)
+  Twitter (twitter api)
+  Sports Scores (mysportfeed api)
   
