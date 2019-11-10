@@ -7,6 +7,8 @@ import time
 
 warnings.filterwarnings("ignore", category=DeprecationWarning)
 
+
+
 g = geocoder.ip('me')
 geolocator = Nominatim()
 
